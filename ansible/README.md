@@ -7,6 +7,6 @@ AWS credentials need to be unencrypted in ansible vault, currently stored as enc
 To Do: 
 1. Figure out how to connect the load balancer to nginx applications that will be setup in k8s
 2. Figure out cheaper ALB than Route53(because money)
-3. 
+
 
   
